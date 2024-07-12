@@ -19,4 +19,5 @@ Es una aplicación diseñada para ayudae a los usuarios a registrar sus activida
 
 ## Colaboradores
 Jose António Pilartes Magalhaes - *Desarrollador Backend*, github (https://github.com/magalhaes27) Linkdin (https://www.linkedin.com/in/jose-magalhaes-39a50718a/)
+
 Joseph Rodriguez Parco  - *Software Engineering student *, github (https://github.com/eJosR-Coding) Linkedin (https://www.linkedin.com/in/ejosrodriguez/)
