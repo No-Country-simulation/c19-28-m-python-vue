@@ -1,5 +1,5 @@
 # Diagrama de clase
-::: mermaid
+``` mermaid
 classDiagram
     Usuario "1..*" -- "0..*" Actividad: is associated with
     Actividad "1..*" -- "1..*" Categoria: is associated with
@@ -18,4 +18,4 @@ classDiagram
 
 
 
-:::
+```
